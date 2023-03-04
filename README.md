@@ -5,7 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoQueiroz-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoQueiroz-Dev&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+  <h2>Linguagens Aprendidas</h2>
+<div style="display: inline_block">
 <img align="center" alt="Tiago-C" height="35" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="center" alt="Tiago-CS" height="35" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="center" alt="Tiago-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
