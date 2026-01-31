@@ -28,26 +28,12 @@ Busco unir teoria e prática: entender o *porquê* por trás do código é o que
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div>
-  <a href="https://github.com/TiagoQueiroz-Dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoQueiroz-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoQueiroz-Dev&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</div>
----
-
 ### 📬 Contato
 
 <div>
   <p>📧 <strong>Gmail:</strong> <a href="mailto:Tiago.Dev.Queiroz@gmail.com">Tiago.Dev.Queiroz@gmail.com</a></p>
   <p>📱 <strong>Telefone:</strong> +55 (71) 98874-4550</p>
 </div>
-
----
-
-![Snake animation](https://github.com/TiagoQueiroz-Dev/TiagoQueiroz-Dev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
